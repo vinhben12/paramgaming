@@ -1,4 +1,3 @@
-
 const _0x1e62b4 = _0x5dd1;
 (function (_0x40b1c7, _0x39fa19) {
   const _0x7f1faa = _0x5dd1,
@@ -64,7 +63,7 @@ function _0x593f() {
     '4tILiKG',
     '300XSDEsK',
     'taskClaimed',
-    'Param\x20ManU\x20Vo\x20dich\x20,
+    'Param\x20Gaming\x20Auto\x20Claimer\x20–\x20Manu\x0avo\x20dich',
     'Error\x20in\x20Claim\x20Quest:\x20',
     'taskCompleted',
     'log',
